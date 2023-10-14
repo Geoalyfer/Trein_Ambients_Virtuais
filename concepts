@@ -1,0 +1,11 @@
+Conceitos de Ambientes Virtuais
+
+Os ambientes virtuais servem para separar pacotes que operam dedicados a programação que foi programada.
+
+Serve para isolar ambientes de desenvolvimento.
+
+Somente as bibliotecas escolhidas serão instaladas no notebook e o interpretador da linguagem Pyhon.
+
+Ajudam a organizar focos em projetos diferentes, por exemplo: projeto de análise de dados e projeto de desenvolvimento Web.
+
+Por último faz-se o freeze para fechar o ambiente de dados criado.
